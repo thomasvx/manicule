@@ -28,14 +28,6 @@
 
 <br>
 
-## Werking
-
-Open `manicule.exe` om de muiscursor aan te zetten. Doe dat nog een keer om je gewone muiscursor weer terug te krijgen.
-
-Door **Ctrl+Shift+scrollen** (of **Ctrl+Shift+pinchen** op een touchpad) maak je de hand groter of kleiner.
-
-<br>
-
 ## Tekenen
 
 | Sneltoets | Functie |
