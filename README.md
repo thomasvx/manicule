@@ -3,7 +3,7 @@
   <em>Vervang je muispijl door een hand, teken op het scherm en licht iets uit.</em>
 </p>
 
-[Download _Manicule_ hier.](https://github.com/thomasvx/manicule/releases/download/v261115b/manicule.exe)
+[Download _Manicule_.](https://github.com/thomasvx/manicule/releases/download/v261115b/manicule.exe)
 
 <p align="center">
   <table>
