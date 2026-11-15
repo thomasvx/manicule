@@ -17,6 +17,14 @@
     </tr>
     <tr>
       <td width="25%">
+        Denk veel te lang na over welke hand bij jouw persoonlijkheid past.
+      </td>
+      <td width="75%">
+        <img src="https://github.com/user-attachments/assets/9e159595-7513-4ddd-840f-e5a85b1d5783" width="100%" style="border:8px solid white;"/>
+      </td>
+    </tr>
+    <tr>
+      <td width="25%">
         Teken op het scherm of licht iets uit.
       </td>
       <td width="75%">
