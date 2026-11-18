@@ -4,7 +4,7 @@
 </p>
 <br>
 
-[Download _Manicule_.](https://github.com/thomasvx/manicule/releases/download/v261115b/manicule.exe)
+[Download _Manicule_.](https://github.com/thomasvx/manicule/releases/download/v261118/manicule.exe)
 
 <p align="center">
   <table>
